@@ -1,0 +1,72 @@
+<template>
+  <div>
+    <!-- //is-link @click="showPopup" -->
+    <van-cell
+    class="discount">
+       <van-row class="top">
+         <van-col class="left" span="3"><p>优惠</p></van-col>
+         <van-col class="mid" span="18">
+           <div class="txt1">
+             <span>买25减8</span>
+             <b>华为MateBook 14 赠品</b>
+           </div>
+         </van-col>
+         <van-col class="right" span="3"><img src="./三个点灰.svg" ></van-col>
+       </van-row>
+    </van-cell>
+</div>
+</template>
+
+<script>
+export default{
+	name:"Youhui",
+	data(){
+		return{
+        
+		}
+	},
+	methods:{
+	}
+}
+</script>
+
+<style scoped>
+  .discount{
+    width: 375px;
+    height: 70px;
+    border-bottom: 10px solid #E8E8ED;
+    padding: 0;
+  }
+  .top{
+    height: 63px;
+  }
+  .left>p{
+    font-size: 12px;
+    color: #999999;
+    text-align: center;
+  }
+  .right{
+    width: 25px;
+    float: right;
+    margin: 10px;
+  }
+  .right>img{
+    width:20px ;
+    height: 20px;
+  }
+  .mid{
+    margin: 10px 0;
+  }
+  .mid>.txt1>span{
+    color: #e4393c;
+    border: #E4393C 1px solid;
+    font-size: 10px;
+  }
+  .mid>.txt1>b{
+    color: #333333;
+    font-size: 12px;
+  }
+.top2{
+  background-color: #42B983;
+}
+</style>
