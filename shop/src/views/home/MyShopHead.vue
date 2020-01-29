@@ -24,7 +24,7 @@
       </router-link>
       <router-link to="/login">
         <van-col  class="col" style="width: 54px"  span="4">
-          <a style="color: #fff;margin: 10px auto;font-size: 15px;" href="javascript:void(0)">登录</a>
+          <a style="color: #fff;margin: 10px -11px 10px auto;font-size: 15px;" href="javascript:void(0)">登录</a>
         </van-col>
       </router-link>
     </van-row>

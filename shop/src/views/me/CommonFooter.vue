@@ -2,11 +2,10 @@
     <div class="wrap">
       <div class="wrap1">
         <van-row type="flex" justify="center">
-          <van-col class="login" span="8">
-            <a style="color: #848689" href="javascript:void(0)">sherry&nbsp;&nbsp;</a><i class="line" ></i>
-          </van-col>
-          <van-col span="4">
-            <a style="color: #848689;margin-right: 15px" href="javascript:void(0)">注册</a><i class="line"></i>
+          <van-col class="login" span="6">
+            <a style="color: #848689" href="javascript:void(0)">sherry</a><i class="line"></i></van-col>
+          <van-col span="6">
+            <a style="color: #848689" href="javascript:void(0)">注册</a><i class="line"></i>
           </van-col>
           <van-col span="6">
             <a style="color: #848689" href="javascript:void(0)">客户服务</a><i class="line"></i>

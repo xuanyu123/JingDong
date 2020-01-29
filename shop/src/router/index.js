@@ -10,6 +10,10 @@ import index_tooth from "../views/similar_product/index_tooth";
 import index_watch from "../views/similar_product/index_watch";
 import index_window from "../views/similar_product/index_window";
 import point_gift from "../views/point_gift";
+import order from "../views/shopping_car/order";
+import trolley from "../views/shopping_car/trolley";
+import me from "../views/me";
+
 Vue.use(Router)
 
 export default new Router({
@@ -64,6 +68,21 @@ export default new Router({
       path: '/point_gift',
       name: 'point_gift',
       component: point_gift
-    }
+    },
+    {
+      path: '/order',
+      name: 'order',
+      component: order
+    },
+    {
+      path: '/trolley',
+      name: 'trolley',
+      component: trolley
+    },
+    {
+      path: '/me',
+      name: 'me',
+      component: me
+    },
   ]
 })

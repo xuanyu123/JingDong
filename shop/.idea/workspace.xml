@@ -2,7 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61edf6b-9d9f-4fc6-9d4b-ce106ef1c80a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/CommonFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/CommonNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyAsset.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyBottom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyCollect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyExpand.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyOrder.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyService.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/me/MyTop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/order/obottom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/order/ogoods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/order/ohead.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/order/omenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tbottom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tjine.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tnotice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tperson.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/trgoods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/trhead.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tyou.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shopping_car/trolley/tzhifu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/个.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/元.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/商品.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/店铺.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/张.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/足迹.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home/CommonFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/CommonFooter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home/CommonNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/CommonNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home/MyShopHead.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/MyShopHead.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +76,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1X0yJda1S86VTA7PXQ8epSkCNd2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,19 +88,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/home" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/src/views/shopping_car/order" />
       <recent name="$PROJECT_DIR$/src/views/similar_product" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/home" />
+      <recent name="$PROJECT_DIR$/src/views/me" />
       <recent name="$PROJECT_DIR$/src/views" />
-      <recent name="$PROJECT_DIR$/src/views/Potin_gift" />
-      <recent name="$PROJECT_DIR$/src/views/similar_product/flower" />
-      <recent name="$PROJECT_DIR$/src/views/similar_product" />
-      <recent name="$PROJECT_DIR$/src/views/similar_product/Matebook" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -82,7 +131,8 @@
       <workItem from="1580201612430" duration="5859000" />
       <workItem from="1580209510109" duration="14015000" />
       <workItem from="1580266918507" duration="128000" />
-      <workItem from="1580267209231" duration="3327000" />
+      <workItem from="1580267209231" duration="8291000" />
+      <workItem from="1580279217652" duration="17645000" />
     </task>
     <task id="LOCAL-00001" summary="将JD提交到git">
       <created>1580268118335</created>
@@ -98,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580269957678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="二次修改">
+      <created>1580274082198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580274082198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +191,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -148,17 +207,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="将JD提交到git" />
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="二次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="二次修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1519" y="188" key="#Notifications" timestamp="1580270573309">
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
     <state x="1519" y="188" key="#Notifications/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270573309" />
-    <state x="1494" y="125" key="CommitChangelistDialog2" timestamp="1580269955807">
+    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580276140270">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580276140270" />
+    <state x="1494" y="125" key="CommitChangelistDialog2" timestamp="1580274081353">
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
-    <state x="1494" y="125" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580269955807" />
+    <state x="1494" y="125" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274081353" />
     <state x="1790" y="423" key="Github.ShareDialog" timestamp="1580270379544">
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
@@ -167,9 +231,13 @@
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
     <state x="1428" y="162" key="SettingsEditor/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270318588" />
-    <state x="1519" y="262" key="Vcs.Push.Dialog.v2" timestamp="1580270401831">
+    <state width="498" height="451" key="SwitcherDM" timestamp="1580302533670">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="498" height="451" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1580302533670" />
+    <state x="1519" y="262" key="Vcs.Push.Dialog.v2" timestamp="1580274085403">
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
-    <state x="1519" y="262" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270401831" />
+    <state x="1519" y="262" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274085403" />
   </component>
 </project>
