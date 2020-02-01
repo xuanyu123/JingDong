@@ -18,6 +18,9 @@
       }
     },
     methods:{
+      onSubmit (){
+        this.$router.push({path:'/trolley'})
+      }
     }
   }
 </script>

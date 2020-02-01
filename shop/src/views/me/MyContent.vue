@@ -14,6 +14,14 @@
           <div class="notice">京享值226</div>
           <div class="notice arrow">小白信用64.7</div>
         </div>
+        <div class="plus_black_wrap">
+          <div class="inner">
+            <div class="title">
+              <div class="plus_title">尊享会员特权</div>
+              <div class="plus_subtitle">立即查看</div>
+            </div>
+          </div>
+        </div>
       </span>
       <span class=""></span>
     </div>
@@ -36,12 +44,13 @@
 <style scoped>
   #content{
     width: 100%;
-    height: 134px;
+    height: 39.733vw;
     background: linear-gradient(90deg,#eb3c3c,#ff7459);
     border-radius: 0 0 300px 300px/0 0 20px 20px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    box-shadow: 0 2px 4px rgba(228,57,60,.4);
   }
   .three{
     height: 60px;
@@ -147,4 +156,80 @@
     right: 6px;
     top: 5px;
   }
+  .plus_black_wrap {
+    width: 100%;
+    height: 37px;
+    box-sizing: border-box;
+    padding: 0 20px;
+    color: #ffe678;
+    font-size: 12px;
+  }
+  .inner {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding: 7px 10px 10px;
+    background: url(https://img11.360buyimg.com/jdphoto/s710x134_jfs/t1/43463/14/4447/108469/5cd2c002Ee4dcb4c9/445d4efb8eee08e9.png) no-repeat 0 0;
+    background-size: 100% 67px;
+    border-radius: 0 0 300px 300px/0 0 20px 20px;
+  }
+  .title {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+  .plus_title {
+    position: relative;
+    padding-left: 78px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .plus_title:before {
+    position: absolute;
+    content: "";
+    width: 57px;
+    height: 12px;
+    left: 0;
+    top: 3px;
+    background: url(https://img11.360buyimg.com/jdphoto/s113x21_jfs/t1/44130/31/4355/2489/5cd2d9bdE7fd63a96/155d2b916c3ede73.png) no-repeat 50%;
+    background-size: 100% 100%;
+  }
+  .plus_title:after {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 7px;
+    background: #ffe678;
+    left: 67px;
+    top: 5px;
+  }
+  .plus_subtitle{
+    position: relative;
+    padding-right: 10px;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    height: 18px;
+  }
+  .plus_subtitle:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 6px;
+    height: 10px;
+    background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 20'%3E%3Cpath fill='%23FFE678' fill-rule='evenodd' d='M2 20c-.8 0-1.5-.5-1.8-1.2-.3-.8-.2-1.6.4-2.2L7.2 10 .6 3.4c-.8-.8-.8-2 0-2.8.8-.8 2-.8 2.8 0l8 8c.4.4.6 1 .6 1.4 0 .5-.2 1-.6 1.4l-8 8c-.4.4-1 .6-1.4.6z'/%3E%3C/svg%3E);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -6px;
+    }
 </style>

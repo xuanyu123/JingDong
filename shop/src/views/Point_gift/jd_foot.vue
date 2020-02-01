@@ -13,11 +13,11 @@
         </div>
         <div>找东西</div>
       </van-col>
-      <van-col span="8">
+      <van-col span="8" @click="go_to_me">
         <div>
           <img src="https://img14.360buyimg.com/jdphoto/jfs/t1/56880/27/11092/1162/5d80ce36E552228df/92d2015dedf57695.png.webp"/>
         </div>
-        <div>我的</div>
+          <div>我的</div>
       </van-col>
     </van-row>
   </div>
@@ -32,7 +32,9 @@
     }
   },
    methods: {
-
+      go_to_me(){
+        this.$router.push({path:'/me'})
+      }
     }
   }
 </script>

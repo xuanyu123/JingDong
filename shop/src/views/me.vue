@@ -7,6 +7,7 @@
     <MyCollect></MyCollect>
     <MyExpand></MyExpand>
     <MyService></MyService>
+    <Recommend></Recommend>
     <MyBottom></MyBottom>
     <CommonFooter></CommonFooter>
     <CommonNav></CommonNav>
@@ -21,8 +22,9 @@ import MyAsset from'@/views/me/MyAsset';
 import MyCollect from'@/views/me/MyCollect';
 import MyExpand from'@/views/me/MyExpand';
 import MyService from'@/views/me/MyService';
+import Recommend from "./me/recommend";
 import MyBottom from'@/views/me/MyBottom';
-import CommonFooter from "./me/CommonFooter";
+import CommonFooter from "./home/CommonFooter";
 import CommonNav from "./me/CommonNav";
 
 export default {
@@ -35,6 +37,7 @@ export default {
     MyCollect,
     MyExpand,
     MyService,
+    Recommend,
     MyBottom,
     CommonFooter,
     CommonNav
@@ -52,4 +55,5 @@ export default {
 }
 </script>
 <style scoped>
+
 </style>

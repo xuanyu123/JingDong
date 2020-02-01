@@ -143,10 +143,8 @@
 </script>
 <style scoped>
   .wrap{
-
     font-size: 12px;
     border-top:5px ;
-
     border-radius: 20px;
     margin-top: 8px;
     margin-bottom: 50px;
@@ -222,7 +220,7 @@
     color: #ff0000;
     font-size: 17px;
     position: absolute;
-    top: 15px;
+    top: 12vw;
   }
   .goods>ul>li>p{
     position: absolute;

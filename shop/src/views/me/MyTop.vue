@@ -1,6 +1,6 @@
 <template>
   <div id="top">
-      <van-nav-bar title="我的京东" left-arrow @click-left="onClickLeft">
+      <van-nav-bar title="我的京东" left-arrow @click-left="onClickLeft" id="go_top">
         <van-icon name="ellipsis" slot="right" />
       </van-nav-bar>
   </div>
