@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f61edf6b-9d9f-4fc6-9d4b-ce106ef1c80a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/home/ScrollTop_wrap.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/me/recommend.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Point_gift/jd_foot.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Point_gift/jd_foot.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/home/CommonFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/CommonFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/me.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/me.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/me/CommonFooter.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/me/MyContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/me/MyContent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/me/MyService.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/me/MyService.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/me/MyTop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/me/MyTop.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/shopping_car/order/obottom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/shopping_car/order/obottom.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/shopping_car/order/ogoods.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/shopping_car/order/ogoods.vue" afterDir="false" />
-    </list>
+    <list default="true" id="f61edf6b-9d9f-4fc6-9d4b-ce106ef1c80a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +86,7 @@
       <workItem from="1580266918507" duration="128000" />
       <workItem from="1580267209231" duration="8291000" />
       <workItem from="1580279217652" duration="24818000" />
+      <workItem from="1580556369297" duration="232000" />
     </task>
     <task id="LOCAL-00001" summary="将JD提交到git">
       <created>1580268118335</created>
@@ -128,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580314612611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改我的页面内容">
+      <created>1580556493504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580556493504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,11 +189,11 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580357319477" />
-    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2" timestamp="1580556432751">
+    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2" timestamp="1580556491971">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="241" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580314611230" />
-    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556432751" />
+    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556491971" />
     <state x="1494" y="125" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274081353" />
     <state x="1790" y="423" key="Github.ShareDialog" timestamp="1580270379544">
       <screen x="1280" y="23" width="1280" height="1001" />
@@ -212,10 +207,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="498" height="451" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1580302533670" />
-    <state x="269" y="232" key="Vcs.Push.Dialog.v2" timestamp="1580314617328">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="239" y="208" key="Vcs.Push.Dialog.v2" timestamp="1580556520638">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="269" y="232" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580314617328" />
+    <state x="239" y="208" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556520638" />
     <state x="1519" y="262" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274085403" />
   </component>
 </project>
