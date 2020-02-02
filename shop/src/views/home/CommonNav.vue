@@ -13,7 +13,7 @@
       </van-tabbar-item>
       <van-tabbar-item replace to="/classify" icon="apps-o">分类</van-tabbar-item>
       <van-tabbar-item replace to="/point_gift" icon="point-gift">京喜</van-tabbar-item>
-      <van-tabbar-item replace to="/order" info="5" icon="shopping-cart">购物车</van-tabbar-item>
+      <van-tabbar-item replace to="/order" info="4" icon="shopping-cart">购物车</van-tabbar-item>
       <van-tabbar-item replace to="/me" icon="manager">我的</van-tabbar-item>
     </van-tabbar>
   </div>

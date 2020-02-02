@@ -2,9 +2,7 @@
   <div style="border-bottom: 1px solid #f0f2f5">
     <van-row style="height: 44px">
       <van-col span="3">
-        <router-link to="/">
-          <van-icon name="arrow-left" size="25" style="margin-top: 8px;margin-left: 4px;"/>
-        </router-link>
+          <van-icon name="arrow-left" size="25" style="margin-top: 8px;margin-left: 4px;" @click="go_back"/>
       </van-col>
       <van-col span="17">
           <van-field
@@ -28,6 +26,11 @@
         value1: '',
         value2: '123'
       };
+    },
+    methods:{
+      go_back(){
+        this.$router.go(-1)
+      }
     }
   };
 </script>

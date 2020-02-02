@@ -2,7 +2,7 @@
   <div>
     <van-row>
       <van-col span="2" style="margin-top: 15px;margin-left: 5px">
-        <van-icon name="arrow-left" size="25" @click="back_classify"/>
+        <van-icon name="arrow-left" size="25" @click="back_index"/>
       </van-col>
       <router-link to="/search">
         <van-col span="20">
@@ -27,7 +27,7 @@
     },
     methods: {
       back_index(){
-        this.$router.push({path:'/classify'})
+        this.$router.push({path:'/'})
       }
     }
   }
