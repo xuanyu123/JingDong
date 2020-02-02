@@ -13,6 +13,7 @@ import point_gift from "../views/point_gift";
 import order from "../views/shopping_car/order";
 import trolley from "../views/shopping_car/trolley";
 import me from "../views/me";
+// import classify from "../views/classify";
 
 Vue.use(Router)
 
@@ -84,5 +85,10 @@ export default new Router({
       name: 'me',
       component: me
     },
+    // {
+    //   path: '/classify',
+    //   name: 'classify',
+    //   component: classify
+    // },
   ]
 })

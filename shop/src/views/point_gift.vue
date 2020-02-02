@@ -3,11 +3,12 @@
     <div style="width: 100%;height: 44px;position: absolute;z-index: 999">
       <jd_top_wrap></jd_top_wrap>
     </div>
-      <jd_head></jd_head>
-      <jd_neck></jd_neck>
-      <jd_body></jd_body>
-      <jd_hair></jd_hair>
-      <jd_foot></jd_foot>
+    <jd_head></jd_head>
+    <jd_neck></jd_neck>
+    <jd_body></jd_body>
+    <jd_hair></jd_hair>
+    <ScrollTop_wrap></ScrollTop_wrap>
+    <jd_foot></jd_foot>
   </div>
 </template>
 
@@ -18,34 +19,34 @@
   import jd_neck from '@/views/Point_gift/jd_neck'
   import jd_foot from '@/views/Point_gift/jd_foot'
   import jd_hair from '@/views/Point_gift/jd_hair'
+  import ScrollTop_wrap from "./home/ScrollTop_wrap";
 
   export default {
-    name:'point_gift',
-    components:{
+    name: 'point_gift',
+    components: {
+      ScrollTop_wrap,
       jd_top_wrap,
       jd_head,
       jd_neck,
       jd_body,
       jd_foot,
+      ScrollTop_wrap,
       jd_hair
     },
-    data(){
-      return{
-
-      }
+    data() {
+      return {}
     },
-    methods:{
-
-    }
+    methods: {}
   }
 </script>
 
 <style scoped>
-  *{
+  * {
     margin: 0;
     padding: 0;
   }
-  #wrap{
+
+  #wrap {
     position: relative;
     box-sizing: border-box;
   }

@@ -43,6 +43,7 @@ export default{
       height: 100px;
     }
     .left>p{
+      margin-top: 5px;
       font-size: 12px;
       color: #999999;
       text-align: center;
@@ -57,7 +58,7 @@ export default{
       height: 20px;
     }
     .mid>.txt1{
-      margin: 11px 0;
+      margin: 8px 0;
     }
     .mid>.txt1>p{
       color: #333333;

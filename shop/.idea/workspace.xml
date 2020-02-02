@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f61edf6b-9d9f-4fc6-9d4b-ce106ef1c80a" name="Default Changelist" comment="" />
+    <list default="true" id="f61edf6b-9d9f-4fc6-9d4b-ce106ef1c80a" name="Default Changelist" comment="修改我的页面内容">
+      <change afterPath="$PROJECT_DIR$/src/images/±£ÎÂ±­.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/±ÜÔÐÌ×.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/´µ·ç»ú.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/µç´ÅÂ¯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/µç·¹ìÒ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/¶ú»ú.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/·Å´ó¾µ.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/»ªÎª.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/¿Úºì.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Â·ÓÉÆ÷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ÅÅÐÐ°ñ1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ÅÅÐÐ°ñ2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ÈýÖ»ËÉÊó.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ÊÖ»ú.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Î¢²¨Â¯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ÎÀÉú½í.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Ï´·¢Ë®.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Ï´ÒÂÒº.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/下载.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/下载右.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/京喜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/分类.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/未登录.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/购物车.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/首页.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/point_gift.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/point_gift.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Flower/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Flower/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Flower/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Flower/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Flower/Top.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Flower/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Flower/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Flower/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Flower/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Matebook/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Matebook/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Matebook/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Matebook/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Matebook/Top.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Matebook/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Matebook/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Matebook/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Matebook/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Oat/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Oat/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Oat/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Oat/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Oat/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Oat/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Oat/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Oat/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Tooth/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Tooth/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Tooth/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Tooth/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Tooth/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Tooth/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Tooth/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Tooth/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Watch/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Watch/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Watch/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Watch/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Watch/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Watch/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Watch/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Watch/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Window/Address.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Window/Address.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Window/Shops.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Window/Shops.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Window/Users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Window/Users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/Window/Youhui.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/Window/Youhui.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_flower.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_flower.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_matebook.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_matebook.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_oat.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_oat.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_tooth.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_tooth.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_watch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_watch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/similar_product/index_window.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/similar_product/index_window.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/个.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/元.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/张.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,21 +125,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/me" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/views/me" />
+      <recent name="$PROJECT_DIR$/src/views/home" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/similar_img" />
+      <recent name="$PROJECT_DIR$/src/views/classify" />
       <recent name="$PROJECT_DIR$/src/views" />
       <recent name="$PROJECT_DIR$/src/views/shopping_car/order" />
       <recent name="$PROJECT_DIR$/src/views/similar_product" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/views/me" />
-      <recent name="$PROJECT_DIR$/src/views/home" />
-      <recent name="$PROJECT_DIR$/src/views" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -86,7 +175,7 @@
       <workItem from="1580266918507" duration="128000" />
       <workItem from="1580267209231" duration="8291000" />
       <workItem from="1580279217652" duration="24818000" />
-      <workItem from="1580556369297" duration="232000" />
+      <workItem from="1580556369297" duration="10124000" />
     </task>
     <task id="LOCAL-00001" summary="将JD提交到git">
       <created>1580268118335</created>
@@ -123,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580556493504</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改我的页面内容">
+      <created>1580556644653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580556644653</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,33 +281,34 @@
     </state>
     <state x="269" y="168" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580314716296" />
     <state x="1519" y="188" key="#Notifications/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270573309" />
-    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580357319477">
+    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580607256955">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580357319477" />
-    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2" timestamp="1580556491971">
+    <state x="377" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580607256955" />
+    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2" timestamp="1580616612476">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="241" y="103" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580314611230" />
-    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556491971" />
+    <state x="214" y="23" width="780" height="777" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580616612476" />
     <state x="1494" y="125" key="CommitChangelistDialog2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274081353" />
     <state x="1790" y="423" key="Github.ShareDialog" timestamp="1580270379544">
       <screen x="1280" y="23" width="1280" height="1001" />
     </state>
     <state x="1790" y="423" key="Github.ShareDialog/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270379544" />
-    <state x="1428" y="162" key="SettingsEditor" timestamp="1580270318588">
-      <screen x="1280" y="23" width="1280" height="1001" />
+    <state x="148" y="23" key="SettingsEditor" timestamp="1580558304641">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
+    <state x="148" y="23" key="SettingsEditor/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580558304641" />
     <state x="1428" y="162" key="SettingsEditor/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580270318588" />
     <state width="498" height="451" key="SwitcherDM" timestamp="1580302533670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="498" height="451" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1580302533670" />
-    <state x="239" y="208" key="Vcs.Push.Dialog.v2" timestamp="1580556520638">
+    <state x="239" y="208" key="Vcs.Push.Dialog.v2" timestamp="1580556648418">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="269" y="232" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580314617328" />
-    <state x="239" y="208" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556520638" />
+    <state x="239" y="208" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@0.23.1280.777" timestamp="1580556648418" />
     <state x="1519" y="262" key="Vcs.Push.Dialog.v2/1280.23.1280.1001/0.23.1280.777@1280.23.1280.1001" timestamp="1580274085403" />
   </component>
 </project>

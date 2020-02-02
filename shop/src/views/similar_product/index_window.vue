@@ -15,7 +15,7 @@
           <Shops></Shops>
           <Xiangqing></Xiangqing>
           <Favorate></Favorate>
-          <Top></Top>
+          <ScrollTop_wrap></ScrollTop_wrap>
           <Shopping></Shopping>
 
         </div>
@@ -37,13 +37,14 @@ import Tags from '@/views/similar_product/Window/Tags'
 import Users from '@/views/similar_product/Window/Users'
 import Favorate from '@/views/similar_product/Window/Favorate'
 import Xiangqing from '@/views/similar_product/Window/Xiangqing'
-import Top from '@/views/similar_product/Window/top'
 import Shops from '@/views/similar_product/Window/Shops'
+import ScrollTop_wrap from "../home/ScrollTop_wrap";
 
 
 export default{
 	name:'Index',
   components:{
+    ScrollTop_wrap,
     Introduce,
     PicSwipe,
     Price,
@@ -56,7 +57,7 @@ export default{
     Favorate,
     Xiangqing,
     Shops,
-    Top,
+    ScrollTop_wrap,
     Shopping
   },
 	data() {

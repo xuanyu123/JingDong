@@ -72,7 +72,7 @@ export default{
     margin-left: 10px;
   }
   .star{
-    width: 110px;
+    width: 115px;
     background-color: #f7f7f7;
     border-radius: 5px;
     padding: 0;
@@ -109,7 +109,6 @@ export default{
   }
   .mid{
     width: 146px;
-
     display: inline-block;
     text-align: center;
   }
@@ -129,7 +128,7 @@ export default{
     font-size: 10px;
   }
   .right{
-    width: 63px;
+    width: 70px;
     float: right;
   }
   .pic{

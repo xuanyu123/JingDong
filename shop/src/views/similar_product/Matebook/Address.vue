@@ -47,6 +47,7 @@ export default{
       font-size: 12px;
       color: #999999;
       text-align: center;
+      margin-top: 5px;
     }
     .right{
       width: 25px;
@@ -58,7 +59,7 @@ export default{
       height: 20px;
     }
     .mid>.txt1{
-      margin: 11px 0;
+      margin: 6px 0;
     }
     .mid>.txt1>p{
       color: #333333;

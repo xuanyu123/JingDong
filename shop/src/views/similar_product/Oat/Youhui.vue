@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- //is-link @click="showPopup" -->
-    <van-cell 
+    <van-cell
     class="discount">
        <van-row class="top">
          <van-col class="left" span="3"><p>优惠</p></van-col>
@@ -62,6 +62,7 @@ export default{
     font-size: 12px;
     color: #999999;
     text-align: center;
+    margin-top: 5px;
   }
   .right{
     width: 25px;
@@ -73,7 +74,7 @@ export default{
     height: 20px;
   }
   .mid{
-    margin: 10px 0;
+    margin: 6px 0;
   }
   .mid>.txt1>span{
     color: #e4393c;

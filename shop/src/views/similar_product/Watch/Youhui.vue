@@ -57,6 +57,7 @@ export default{
     font-size: 12px;
     color: #999999;
     text-align: center;
+    margin-top: 10px;
   }
   .right{
     width: 25px;

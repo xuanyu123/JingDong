@@ -1,6 +1,6 @@
 <template>
   <div>
-    <van-cell 
+    <van-cell
     class="discount">
        <van-row class="top">
          <van-col class="left" span="3"><p>优惠</p></van-col>
@@ -47,6 +47,7 @@ export default{
     height: 63px;
   }
   .left>p{
+    margin-top: 2px;
     font-size: 12px;
     color: #999999;
     text-align: center;
@@ -61,7 +62,7 @@ export default{
     height: 20px;
   }
   .mid{
-    margin: 10px 0;
+    margin: 5px 0;
   }
   .mid>.txt1>span{
     color: #e4393c;

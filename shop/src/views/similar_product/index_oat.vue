@@ -15,7 +15,7 @@
           <Shops></Shops>
           <Xiangqing></Xiangqing>
           <Favorate></Favorate>
-          <Top></Top>
+          <ScrollTop_wrap></ScrollTop_wrap>
           <Shopping></Shopping>
         </div>
 
@@ -36,7 +36,7 @@ import Tags from '@/views/similar_product/Oat/Tags'
 import Users from '@/views/similar_product/Oat/Users'
 import Favorate from '@/views/similar_product/Oat/Favorate'
 import Xiangqing from '@/views/similar_product/Oat/Xiangqing'
-import Top from '@/views/similar_product/Oat/top'
+import ScrollTop_wrap from "../home/ScrollTop_wrap";
 import Shops from '@/views/similar_product/Oat/Shops'
 
 
@@ -55,7 +55,7 @@ export default{
     Favorate,
     Xiangqing,
     Shops,
-    Top,
+    ScrollTop_wrap,
     Shopping
   },
 	data() {

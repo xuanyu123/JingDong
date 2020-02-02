@@ -15,7 +15,7 @@
           <Shops></Shops>
           <Xiangqing></Xiangqing>
           <Favorate></Favorate>
-          <Top></Top>
+          <ScrollTop_wrap></ScrollTop_wrap>
           <Shopping></Shopping>
         </div>
 
@@ -36,7 +36,7 @@ import Tags from '@/views/similar_product/Watch/Tags'
 import Users from '@/views/similar_product/Watch/Users'
 import Favorate from '@/views/similar_product/Watch/Favorate'
 import Xiangqing from '@/views/similar_product/Watch/Xiangqing'
-import Top from '@/views/similar_product/Watch/top'
+import ScrollTop_wrap from "../home/ScrollTop_wrap";
 import Shops from '@/views/similar_product/Watch/Shops'
 
 export default{
@@ -53,7 +53,7 @@ export default{
     Users,
     Favorate,
     Xiangqing,
-    Top,
+    ScrollTop_wrap,
     Shops,
     Shopping
   },
