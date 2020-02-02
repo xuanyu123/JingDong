@@ -3,14 +3,15 @@
     <router-view />
     <van-tabbar route v-model="active" class="van-tabbar-item--active" type="fixed">
       <van-tabbar-item replace to="/">
+        <span>首页</span>
         <img
-          style="height: 46px;width: 60px"
+          style="height: 18px;width: 18px"
           slot="icon"
           slot-scope="props"
           :src="props.active ? icon.active : icon.inactive"
         >
       </van-tabbar-item>
-      <van-tabbar-item icon="apps-o">分类</van-tabbar-item>
+      <van-tabbar-item replace to="/classify" icon="apps-o">分类</van-tabbar-item>
       <van-tabbar-item replace to="/point_gift" icon="point-gift">京喜</van-tabbar-item>
       <van-tabbar-item replace to="/order" info="5" icon="shopping-cart">购物车</van-tabbar-item>
       <van-tabbar-item replace to="/me" icon="manager">我的</van-tabbar-item>
@@ -23,8 +24,8 @@
     data() {
       return {
         active: 0,
-        icon:{'active': 'https://img11.360buyimg.com/jdphoto/s130x100_jfs/t1/67550/26/12426/5094/5d9c4b13Eea435a3f/81328b0609c60a3c.png',
-          'inactive': 'https://img11.360buyimg.com/jdphoto/s130x100_jfs/t1/81741/30/12345/4140/5d9c4b13E726f0a1e/82c582e7c375e4b3.png'},
+        icon:{'active': '/static/img/jd_icon0.svg',
+          'inactive': '/static/img/jd_icon.svg'},
         }
       }
     }

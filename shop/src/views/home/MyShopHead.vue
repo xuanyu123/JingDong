@@ -1,7 +1,9 @@
 <template>
   <div class="wrap">
     <van-row type="flex">
-      <van-col class="col" span="4"><van-icon name="wap-nav" color="#fff" size="30px" style="margin: 6.2px auto"/></van-col>
+      <van-col class="col" span="4">
+        <van-icon name="wap-nav" color="#fff" size="30px" style="margin: 6.2px auto" @click="go_to_classify"/>
+      </van-col>
       <router-link to="/search">
         <van-col class="col mid" span="16 ">
           <div style="background: #fff;width: 36px;display: flex;padding-left: 12px;border-radius: 22px 0 0 22px">
@@ -23,7 +25,7 @@
         </van-col>
       </router-link>
       <router-link to="/login">
-        <van-col  class="col" style="width: 54px"  span="4">
+        <van-col class="col" style="width: 54px" span="4">
           <a style="color: #fff;margin: 10px -11px 10px auto;font-size: 15px;" href="javascript:void(0)">登录</a>
         </van-col>
       </router-link>
@@ -32,18 +34,22 @@
 </template>
 
 <script>
-    export default {
-        name: 'MyShopHead',
-        data() {
-            return {
-              search:'格力变频空调'
-            }
-        },
-        methods: {}
+  export default {
+    name: 'MyShopHead',
+    data() {
+      return {
+        search: '格力变频空调'
+      }
+    },
+    methods: {
+      go_to_classify(){
+        this.$router.push({path:'/classify'})
+      }
     }
+  }
 </script>
 <style scoped>
-  .wrap{
+  .wrap {
     position: fixed;
     z-index: 9999;
     width: 100%;
@@ -51,23 +57,28 @@
     background: #e45041;
     opacity: 0.9;
   }
-  .col{
+
+  .col {
     height: 44px;
     display: flex;
   }
-  .mid{
+
+  .mid {
     padding: 6.2px 0;
     box-sizing: border-box;
   }
-  .van-cell{
+
+  .van-cell {
     padding: 2px 4px;
   }
-  .van-icon__image{
-    width:20px;
+
+  .van-icon__image {
+    width: 20px;
     height: 20px;
     padding-bottom: 5px;
   }
-  .van-col--16{
+
+  .van-col--16 {
     width: 100%;
   }
 </style>

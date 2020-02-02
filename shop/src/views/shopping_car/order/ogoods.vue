@@ -21,8 +21,8 @@
                 <van-tag color="#ff0000">京东国际</van-tag>
                 日本进口 资生堂(SHISEIDO)安热沙ANESSA小金瓶防晒乳
               </p>
-              <p><van-tag color="#f0f0f0" text-color="#000">防晒乳，60ml∨</van-tag></p>
-             <p><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
+              <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">防晒乳，60ml∨</van-tag></p>
+             <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
               <p>￥259.00</p>
 
             </div>
@@ -40,8 +40,8 @@
                 <van-tag color="#ff0000">京东国际</van-tag>
                 韩国进口 蒂佳婷(Dr.jart+)水动力活力水润蓝色药丸面膜
               </p>
-              <p><van-tag color="#f0f0f0" text-color="#000">爆款蓝色 补水保湿∨</van-tag></p>
-              <p><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
+              <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">爆款蓝色 补水保湿∨</van-tag></p>
+              <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
               <p>￥109.00</p>
 
             </div>
@@ -69,8 +69,8 @@
               <p>
                 日本珂润(Curel)润浸保湿滋养乳霜 40g(花王 原装进口 长效补水 敏感肌肤可用)
               </p>
-              <p><van-tag color="#f0f0f0" text-color="#000">滋养面霜(明…,选服务∨</van-tag></p>
-              <p><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
+              <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">滋养面霜(明…,选服务∨</van-tag></p>
+              <p style="margin-top: 8px"><van-tag color="#f0f0f0" text-color="#000">换促销∨</van-tag></p>
               <p>￥188.00</p>
 
             </div>
@@ -98,10 +98,9 @@
                 <p>
                   罗西尼(ROSSINI)手表 典美系列 花漾镶钻女表 优雅风机械表 钢带女士腕表
                 </p>
-                <p><van-tag color="#f0f0f0" text-color="#000">玫瑰金钢带 女表518870G01…,选服务∨</van-tag></p>
+                <p><van-tag color="#f0f0f0" text-color="#000">玫瑰金钢带 女表518870G01</van-tag></p>
                 <p></p>
                 <p>￥1540.00</p>
-
               </div>
              <p><van-stepper v-model="value4" /></p>
             </li>
